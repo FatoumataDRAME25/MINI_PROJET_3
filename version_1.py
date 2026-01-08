@@ -52,6 +52,7 @@ def affiche_menu_principal():
 # ============================== Creation de la fonction menu_principal =====================
 def menu_principal():
     while True:
+        print("***********************MENU-PRINCIPAL*********************")
         print("1. Consulter le solde")
         print("2. Acheter du credit")
         print("3. Effectuer un transfert")
